@@ -44,6 +44,56 @@
       "key": "issue-clog",
       "type": "image",
       "url": "assets/icons/issue-clog.png"
+    },
+    {
+      "key": "bld-jangseung",
+      "type": "image",
+      "url": "assets/buildings/bld-jangseung.png"
+    },
+    {
+      "key": "bld-pojangmacha",
+      "type": "image",
+      "url": "assets/buildings/bld-pojangmacha.png"
+    },
+    {
+      "key": "bld-well",
+      "type": "image",
+      "url": "assets/buildings/bld-well.png"
+    },
+    {
+      "key": "bld-pavilion",
+      "type": "image",
+      "url": "assets/buildings/bld-pavilion.png"
+    },
+    {
+      "key": "bld-bungeo_shop",
+      "type": "image",
+      "url": "assets/buildings/bld-bungeo_shop.png"
+    },
+    {
+      "key": "bld-shrine",
+      "type": "image",
+      "url": "assets/buildings/bld-shrine.png"
+    },
+    {
+      "key": "bld-flower_shop",
+      "type": "image",
+      "url": "assets/buildings/bld-flower_shop.png"
+    },
+    {
+      "key": "bld-bus_stop",
+      "type": "image",
+      "url": "assets/buildings/bld-bus_stop.png"
+    },
+    {
+      "key": "bld-small-wip",
+      "type": "image",
+      "url": "assets/buildings/bld-small-wip.png"
+    },
+    {
+      "key": "customer-icon",
+      "type": "image",
+      "url": "assets/icons/customer-icon.png"
     }
   ],
   "site": [
@@ -170,6 +220,69 @@
       "key": "mg-bg-clog",
       "type": "image",
       "url": "assets/minigame/mg-bg-clog.png"
+    }
+  ],
+  "minigame-order": [
+    {
+      "key": "mg-bg-order",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-order.png"
+    },
+    {
+      "key": "customer",
+      "type": "image",
+      "url": "assets/minigame/customer.png"
+    },
+    {
+      "key": "item-0",
+      "type": "image",
+      "url": "assets/minigame/item-0.png"
+    },
+    {
+      "key": "item-1",
+      "type": "image",
+      "url": "assets/minigame/item-1.png"
+    },
+    {
+      "key": "item-2",
+      "type": "image",
+      "url": "assets/minigame/item-2.png"
+    },
+    {
+      "key": "item-3",
+      "type": "image",
+      "url": "assets/minigame/item-3.png"
+    },
+    {
+      "key": "item-4",
+      "type": "image",
+      "url": "assets/minigame/item-4.png"
+    },
+    {
+      "key": "item-5",
+      "type": "image",
+      "url": "assets/minigame/item-5.png"
+    }
+  ],
+  "minigame-elevator": [
+    {
+      "key": "mg-bg-elevator",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-elevator.png"
+    }
+  ],
+  "minigame-gate": [
+    {
+      "key": "mg-bg-gate",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-gate.png"
+    }
+  ],
+  "minigame-bungeo": [
+    {
+      "key": "mg-bg-bungeo",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-bungeo.png"
     }
   ]
 }
