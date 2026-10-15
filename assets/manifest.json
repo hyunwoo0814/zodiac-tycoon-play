@@ -1,0 +1,175 @@
+{
+  "field": [
+    {
+      "key": "bld-hanok_shop",
+      "type": "image",
+      "url": "assets/buildings/bld-hanok_shop.png"
+    },
+    {
+      "key": "bld-hanok_shop-wip",
+      "type": "image",
+      "url": "assets/buildings/bld-hanok_shop-wip.png"
+    },
+    {
+      "key": "bld-office",
+      "type": "image",
+      "url": "assets/buildings/bld-office.png"
+    },
+    {
+      "key": "bld-office-wip",
+      "type": "image",
+      "url": "assets/buildings/bld-office-wip.png"
+    },
+    {
+      "key": "bld-sungnyemun",
+      "type": "image",
+      "url": "assets/buildings/bld-sungnyemun.png"
+    },
+    {
+      "key": "bld-sungnyemun-wip",
+      "type": "image",
+      "url": "assets/buildings/bld-sungnyemun-wip.png"
+    },
+    {
+      "key": "issue-leak",
+      "type": "image",
+      "url": "assets/icons/issue-leak.png"
+    },
+    {
+      "key": "issue-peel",
+      "type": "image",
+      "url": "assets/icons/issue-peel.png"
+    },
+    {
+      "key": "issue-clog",
+      "type": "image",
+      "url": "assets/icons/issue-clog.png"
+    }
+  ],
+  "site": [
+    {
+      "key": "site-bg",
+      "type": "image",
+      "url": "assets/site/site-bg.png"
+    },
+    {
+      "key": "floor-rebar",
+      "type": "image",
+      "url": "assets/site/floor-rebar.png"
+    },
+    {
+      "key": "floor-pour",
+      "type": "image",
+      "url": "assets/site/floor-pour.png"
+    },
+    {
+      "key": "floor-weld",
+      "type": "image",
+      "url": "assets/site/floor-weld.png"
+    },
+    {
+      "key": "floor-paint",
+      "type": "image",
+      "url": "assets/site/floor-paint.png"
+    },
+    {
+      "key": "summon-rat",
+      "type": "image",
+      "url": "assets/summons/summon-rat.png"
+    },
+    {
+      "key": "summon-ox",
+      "type": "image",
+      "url": "assets/summons/summon-ox.png"
+    },
+    {
+      "key": "crew-rat-work",
+      "type": "frames",
+      "urlPattern": "assets/crew/crew-rat-work/{i}.png",
+      "count": 9,
+      "frameRate": 10
+    },
+    {
+      "key": "crew-ox-work",
+      "type": "frames",
+      "urlPattern": "assets/crew/crew-ox-work/{i}.png",
+      "count": 9,
+      "frameRate": 10
+    },
+    {
+      "key": "crew-tiger-work",
+      "type": "frames",
+      "urlPattern": "assets/crew/crew-tiger-work/{i}.png",
+      "count": 9,
+      "frameRate": 10
+    },
+    {
+      "key": "crew-rabbit-work",
+      "type": "frames",
+      "urlPattern": "assets/crew/crew-rabbit-work/{i}.png",
+      "count": 9,
+      "frameRate": 10
+    }
+  ],
+  "minigame-rebar": [
+    {
+      "key": "mg-bg-rebar",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-rebar.png"
+    }
+  ],
+  "minigame-pour": [
+    {
+      "key": "mg-bg-pour",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-pour.png"
+    }
+  ],
+  "minigame-weld": [
+    {
+      "key": "mg-bg-weld",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-weld.png"
+    }
+  ],
+  "minigame-paint": [
+    {
+      "key": "mg-bg-paint",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-paint.png"
+    }
+  ],
+  "events": [
+    {
+      "key": "goblin",
+      "type": "image",
+      "url": "assets/events/goblin.png"
+    },
+    {
+      "key": "talisman",
+      "type": "image",
+      "url": "assets/events/talisman.png"
+    }
+  ],
+  "minigame-leak": [
+    {
+      "key": "mg-bg-leak",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-leak.png"
+    }
+  ],
+  "minigame-peel": [
+    {
+      "key": "mg-bg-peel",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-peel.png"
+    }
+  ],
+  "minigame-clog": [
+    {
+      "key": "mg-bg-clog",
+      "type": "image",
+      "url": "assets/minigame/mg-bg-clog.png"
+    }
+  ]
+}
