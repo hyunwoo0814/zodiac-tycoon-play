@@ -182,6 +182,56 @@
       "urlPattern": "assets/workers/worker-f-walk-ne/{i}.png",
       "count": 8,
       "frameRate": 8
+    },
+    {
+      "key": "summon-rat-nokpo",
+      "type": "image",
+      "url": "assets/summons/summon-rat-nokpo.png"
+    },
+    {
+      "key": "summon-rat-cheongpo",
+      "type": "image",
+      "url": "assets/summons/summon-rat-cheongpo.png"
+    },
+    {
+      "key": "summon-rat-hongpo",
+      "type": "image",
+      "url": "assets/summons/summon-rat-hongpo.png"
+    },
+    {
+      "key": "summon-rat-geumgwan",
+      "type": "image",
+      "url": "assets/summons/summon-rat-geumgwan.png"
+    },
+    {
+      "key": "summon-rat-crew",
+      "type": "image",
+      "url": "assets/summons/summon-rat-crew.png"
+    },
+    {
+      "key": "summon-ox-nokpo",
+      "type": "image",
+      "url": "assets/summons/summon-ox-nokpo.png"
+    },
+    {
+      "key": "summon-ox-cheongpo",
+      "type": "image",
+      "url": "assets/summons/summon-ox-cheongpo.png"
+    },
+    {
+      "key": "summon-ox-hongpo",
+      "type": "image",
+      "url": "assets/summons/summon-ox-hongpo.png"
+    },
+    {
+      "key": "summon-ox-geumgwan",
+      "type": "image",
+      "url": "assets/summons/summon-ox-geumgwan.png"
+    },
+    {
+      "key": "summon-ox-crew",
+      "type": "image",
+      "url": "assets/summons/summon-ox-crew.png"
     }
   ],
   "site": [
@@ -211,142 +261,58 @@
       "url": "assets/site/floor-paint.png"
     },
     {
-      "key": "summon-rat-work",
+      "key": "crew-rat-rebar",
       "type": "frames",
-      "urlPattern": "assets/crew/crew-rat-work/{i}.png",
-      "count": 9,
-      "frameRate": 10
-    },
-    {
-      "key": "summon-ox-work",
-      "type": "frames",
-      "urlPattern": "assets/crew/crew-ox-work/{i}.png",
-      "count": 9,
-      "frameRate": 10
-    },
-    {
-      "key": "summon-rat-rebar",
-      "type": "frames",
-      "urlPattern": "assets/summons/summon-rat-rebar/{i}.png",
-      "count": 9,
-      "frameRate": 10
-    },
-    {
-      "key": "summon-ox-pour",
-      "type": "frames",
-      "urlPattern": "assets/summons/summon-ox-pour/{i}.png",
-      "count": 9,
-      "frameRate": 10
-    },
-    {
-      "key": "worker-m-rebar",
-      "type": "frames",
-      "urlPattern": "assets/workers/worker-m-rebar/{i}.png",
+      "urlPattern": "assets/crew/crew-rat-rebar/{i}.png",
       "count": 9,
       "frameRate": 8
     },
     {
-      "key": "worker-m-pour",
+      "key": "crew-rat-rebar-fx",
       "type": "frames",
-      "urlPattern": "assets/workers/worker-m-pour/{i}.png",
+      "urlPattern": "assets/crew/crew-rat-rebar-fx/{i}.png",
       "count": 9,
       "frameRate": 8
     },
     {
-      "key": "worker-m-weld",
+      "key": "crew-ox-pour",
       "type": "frames",
-      "urlPattern": "assets/workers/worker-m-weld/{i}.png",
+      "urlPattern": "assets/crew/crew-ox-pour/{i}.png",
       "count": 9,
       "frameRate": 8
     },
     {
-      "key": "worker-m-paint",
+      "key": "crew-ox-pour-fx",
       "type": "frames",
-      "urlPattern": "assets/workers/worker-m-paint/{i}.png",
+      "urlPattern": "assets/crew/crew-ox-pour-fx/{i}.png",
       "count": 9,
       "frameRate": 8
     },
     {
-      "key": "worker-f-rebar",
+      "key": "crew-tiger-weld",
       "type": "frames",
-      "urlPattern": "assets/workers/worker-f-rebar/{i}.png",
+      "urlPattern": "assets/crew/crew-tiger-weld/{i}.png",
       "count": 9,
       "frameRate": 8
     },
     {
-      "key": "worker-f-pour",
+      "key": "crew-tiger-weld-fx",
       "type": "frames",
-      "urlPattern": "assets/workers/worker-f-pour/{i}.png",
+      "urlPattern": "assets/crew/crew-tiger-weld-fx/{i}.png",
       "count": 9,
       "frameRate": 8
     },
     {
-      "key": "worker-f-weld",
+      "key": "crew-rabbit-paint",
       "type": "frames",
-      "urlPattern": "assets/workers/worker-f-weld/{i}.png",
+      "urlPattern": "assets/crew/crew-rabbit-paint/{i}.png",
       "count": 9,
       "frameRate": 8
     },
     {
-      "key": "worker-f-paint",
+      "key": "crew-rabbit-paint-fx",
       "type": "frames",
-      "urlPattern": "assets/workers/worker-f-paint/{i}.png",
-      "count": 9,
-      "frameRate": 8
-    },
-    {
-      "key": "worker-m-rebar-fx",
-      "type": "frames",
-      "urlPattern": "assets/workers/worker-m-rebar-fx/{i}.png",
-      "count": 9,
-      "frameRate": 8
-    },
-    {
-      "key": "worker-m-pour-fx",
-      "type": "frames",
-      "urlPattern": "assets/workers/worker-m-pour-fx/{i}.png",
-      "count": 9,
-      "frameRate": 8
-    },
-    {
-      "key": "worker-m-weld-fx",
-      "type": "frames",
-      "urlPattern": "assets/workers/worker-m-weld-fx/{i}.png",
-      "count": 9,
-      "frameRate": 8
-    },
-    {
-      "key": "worker-m-paint-fx",
-      "type": "frames",
-      "urlPattern": "assets/workers/worker-m-paint-fx/{i}.png",
-      "count": 9,
-      "frameRate": 8
-    },
-    {
-      "key": "worker-f-rebar-fx",
-      "type": "frames",
-      "urlPattern": "assets/workers/worker-f-rebar-fx/{i}.png",
-      "count": 9,
-      "frameRate": 8
-    },
-    {
-      "key": "worker-f-pour-fx",
-      "type": "frames",
-      "urlPattern": "assets/workers/worker-f-pour-fx/{i}.png",
-      "count": 9,
-      "frameRate": 8
-    },
-    {
-      "key": "worker-f-weld-fx",
-      "type": "frames",
-      "urlPattern": "assets/workers/worker-f-weld-fx/{i}.png",
-      "count": 9,
-      "frameRate": 8
-    },
-    {
-      "key": "worker-f-paint-fx",
-      "type": "frames",
-      "urlPattern": "assets/workers/worker-f-paint-fx/{i}.png",
+      "urlPattern": "assets/crew/crew-rabbit-paint-fx/{i}.png",
       "count": 9,
       "frameRate": 8
     }
@@ -389,26 +355,6 @@
       "key": "talisman",
       "type": "image",
       "url": "assets/events/talisman.png"
-    },
-    {
-      "key": "summon-rat",
-      "type": "image",
-      "url": "assets/summons/summon-rat.png"
-    },
-    {
-      "key": "summon-ox",
-      "type": "image",
-      "url": "assets/summons/summon-ox.png"
-    },
-    {
-      "key": "summon-rat-crew",
-      "type": "image",
-      "url": "assets/summons/summon-rat-crew.png"
-    },
-    {
-      "key": "summon-ox-crew",
-      "type": "image",
-      "url": "assets/summons/summon-ox-crew.png"
     }
   ],
   "minigame-leak": [
