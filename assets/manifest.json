@@ -94,6 +94,94 @@
       "key": "customer-icon",
       "type": "image",
       "url": "assets/icons/customer-icon.png"
+    },
+    {
+      "key": "tool-rebar-0",
+      "type": "image",
+      "url": "assets/tools/tool-rebar-0.png"
+    },
+    {
+      "key": "tool-rebar-1",
+      "type": "image",
+      "url": "assets/tools/tool-rebar-1.png"
+    },
+    {
+      "key": "tool-rebar-2",
+      "type": "image",
+      "url": "assets/tools/tool-rebar-2.png"
+    },
+    {
+      "key": "tool-pour-0",
+      "type": "image",
+      "url": "assets/tools/tool-pour-0.png"
+    },
+    {
+      "key": "tool-pour-1",
+      "type": "image",
+      "url": "assets/tools/tool-pour-1.png"
+    },
+    {
+      "key": "tool-pour-2",
+      "type": "image",
+      "url": "assets/tools/tool-pour-2.png"
+    },
+    {
+      "key": "tool-weld-0",
+      "type": "image",
+      "url": "assets/tools/tool-weld-0.png"
+    },
+    {
+      "key": "tool-weld-1",
+      "type": "image",
+      "url": "assets/tools/tool-weld-1.png"
+    },
+    {
+      "key": "tool-weld-2",
+      "type": "image",
+      "url": "assets/tools/tool-weld-2.png"
+    },
+    {
+      "key": "tool-paint-0",
+      "type": "image",
+      "url": "assets/tools/tool-paint-0.png"
+    },
+    {
+      "key": "tool-paint-1",
+      "type": "image",
+      "url": "assets/tools/tool-paint-1.png"
+    },
+    {
+      "key": "tool-paint-2",
+      "type": "image",
+      "url": "assets/tools/tool-paint-2.png"
+    },
+    {
+      "key": "worker-m-walk-sw",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-m-walk-sw/{i}.png",
+      "count": 8,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-m-walk-ne",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-m-walk-ne/{i}.png",
+      "count": 8,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-f-walk-sw",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-f-walk-sw/{i}.png",
+      "count": 8,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-f-walk-ne",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-f-walk-ne/{i}.png",
+      "count": 8,
+      "frameRate": 8
     }
   ],
   "site": [
@@ -123,42 +211,144 @@
       "url": "assets/site/floor-paint.png"
     },
     {
-      "key": "summon-rat",
-      "type": "image",
-      "url": "assets/summons/summon-rat.png"
-    },
-    {
-      "key": "summon-ox",
-      "type": "image",
-      "url": "assets/summons/summon-ox.png"
-    },
-    {
-      "key": "crew-rat-work",
+      "key": "summon-rat-work",
       "type": "frames",
       "urlPattern": "assets/crew/crew-rat-work/{i}.png",
       "count": 9,
       "frameRate": 10
     },
     {
-      "key": "crew-ox-work",
+      "key": "summon-ox-work",
       "type": "frames",
       "urlPattern": "assets/crew/crew-ox-work/{i}.png",
       "count": 9,
       "frameRate": 10
     },
     {
-      "key": "crew-tiger-work",
+      "key": "summon-rat-rebar",
       "type": "frames",
-      "urlPattern": "assets/crew/crew-tiger-work/{i}.png",
+      "urlPattern": "assets/summons/summon-rat-rebar/{i}.png",
       "count": 9,
       "frameRate": 10
     },
     {
-      "key": "crew-rabbit-work",
+      "key": "summon-ox-pour",
       "type": "frames",
-      "urlPattern": "assets/crew/crew-rabbit-work/{i}.png",
+      "urlPattern": "assets/summons/summon-ox-pour/{i}.png",
       "count": 9,
       "frameRate": 10
+    },
+    {
+      "key": "worker-m-rebar",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-m-rebar/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-m-pour",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-m-pour/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-m-weld",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-m-weld/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-m-paint",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-m-paint/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-f-rebar",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-f-rebar/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-f-pour",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-f-pour/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-f-weld",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-f-weld/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-f-paint",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-f-paint/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-m-rebar-fx",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-m-rebar-fx/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-m-pour-fx",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-m-pour-fx/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-m-weld-fx",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-m-weld-fx/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-m-paint-fx",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-m-paint-fx/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-f-rebar-fx",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-f-rebar-fx/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-f-pour-fx",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-f-pour-fx/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-f-weld-fx",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-f-weld-fx/{i}.png",
+      "count": 9,
+      "frameRate": 8
+    },
+    {
+      "key": "worker-f-paint-fx",
+      "type": "frames",
+      "urlPattern": "assets/workers/worker-f-paint-fx/{i}.png",
+      "count": 9,
+      "frameRate": 8
     }
   ],
   "minigame-rebar": [
@@ -199,6 +389,26 @@
       "key": "talisman",
       "type": "image",
       "url": "assets/events/talisman.png"
+    },
+    {
+      "key": "summon-rat",
+      "type": "image",
+      "url": "assets/summons/summon-rat.png"
+    },
+    {
+      "key": "summon-ox",
+      "type": "image",
+      "url": "assets/summons/summon-ox.png"
+    },
+    {
+      "key": "summon-rat-crew",
+      "type": "image",
+      "url": "assets/summons/summon-rat-crew.png"
+    },
+    {
+      "key": "summon-ox-crew",
+      "type": "image",
+      "url": "assets/summons/summon-ox-crew.png"
     }
   ],
   "minigame-leak": [
