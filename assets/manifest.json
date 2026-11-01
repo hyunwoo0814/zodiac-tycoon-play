@@ -1,6 +1,11 @@
 {
   "field": [
     {
+      "key": "guide-rabbit",
+      "type": "image",
+      "url": "assets/ui/guide-rabbit.png"
+    },
+    {
       "key": "bld-hanok_shop",
       "type": "image",
       "url": "assets/buildings/bld-hanok_shop.png"
