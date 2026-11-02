@@ -1,4 +1,4 @@
-:HL["/zodiac-tycoon-play/merge/_next/static/chunks/2dft9g27jpgr4.css","style"]
+:HL["/zodiac-tycoon-play/merge/_next/static/chunks/3ymnagv3vfewv.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"sounds","h":96,"c":"$Q2"}]]
-0:{"b":"Eo9C_dO2lseklyBRnk1-f","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"-b9jLln2rn8vRJR_PquF5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
